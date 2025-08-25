@@ -22,7 +22,7 @@ Developed in Python, the software’s graphical user interface (GUI) is built us
 
 1)A peptide-centric local stability assay enables proteome-scale identification of the protein targets and binding regions of diverse ligands, Kejia Li, Shijie Chen, Keyun Wang, Yan Wang, Lianji Xue, Yuying Ye,Zheng Fang , Jiawen Lyu, Haiyang Zhu, Yanan Li, Ting Yu, Feng Yang, Xiaolei Zhang, Siqi Guo, Chengfei Ruan, Jiahua Zhou, Qi Wang, Mingming Dong , Cheng Luo, Mingliang Ye, Nature Methods, 2025;22:278-282.
 
-2)PELSA-Decipher: a software tool for the processing and interpretation of ligand-protein interaction dataset acquired by PELSA, Haiyang Zhu1, Keyun Wang, Kejia Li, Zheng Fang, Jiahua Zhou, Mingliang Ye, bioRxiv doi: 10.1101/2025.02.27.640683.
+2)PELSA-Decipher: A Software Tool for the Processing and Interpretation of Ligand–Protein Interaction Data Sets Acquired by PELSA, Haiyang Zhu, Keyun Wang, Kejia Li, Zheng Fang, Jiahua Zhou, Lianji Xue, Mingliang Ye, Journal of Proteome Research, 10.1021/acs.jproteome.5c00365.
 
 
 ## Download
