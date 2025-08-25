@@ -1,4 +1,4 @@
-# PELSA-Decipher: a software tool for the processing and interpretation of ligand-protein interaction dataset acquired by PELSA
+# PELSA-Decipher: A Software Tool for the Processing and Interpretation of Ligand–Protein Interaction Data Sets Acquired by PELSA
 
 ## PELSA-Decipher
 
